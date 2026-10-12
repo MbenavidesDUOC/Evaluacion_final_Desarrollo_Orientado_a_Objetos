@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+db.properties
+*.log
+.DS_Store
+db-test.properties

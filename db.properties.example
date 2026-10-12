@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/biblioteca?useSSL=false&serverTimezone=America/Santiago&characterEncoding=UTF-8&connectTimeout=5000&socketTimeout=15000
+db.user=root
+db.password=Inicio01.
